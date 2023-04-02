@@ -1,5 +1,5 @@
 # nvim
-Neovim config as per the Primeagen instructions. 
+Neovim config as per [The Primeagen](https://github.com/ThePrimeagen) instructions. 
 
 ## Where
 In MacOS place in: ` Users/<name>/.config/nvim `
