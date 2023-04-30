@@ -8,11 +8,9 @@ In MacOS place in: ` Users/<name>/.config/nvim `
 Follow the video on [YouTube](https://www.youtube.com/watch?v=w7i4amO_zaE&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R&index=7&ab_channel=ThePrimeagen)
 
 
-## Some (custom and not)) NVIM shortcuts to keep in mind
+## Some (custom and not) NVIM shortcuts to keep in mind
 
 ### Telescope
-
-###  Some (custom and not)) NVIM shortcuts to keep in mind
 
 - leader pf:  project find (telescope fuzzy finder)
 - C-p:        project git fuzzy finder (telescope)
@@ -23,9 +21,9 @@ Follow the video on [YouTube](https://www.youtube.com/watch?v=w7i4amO_zaE&list=P
 - leader a:     add page to harpoon
 - C-e:          toggle quick menu
 - C-h           switch to file 1
--   t                          2
--   n                          3
--   s                          4
+- C-t           switch to file 2
+- C-n           switch to file 3
+- C-s           switch to file 4 
 
 ### LSP
 
