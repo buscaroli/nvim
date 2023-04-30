@@ -20,10 +20,10 @@ Follow the video on [YouTube](https://www.youtube.com/watch?v=w7i4amO_zaE&list=P
 
 - leader a:     add page to harpoon
 - C-e:          toggle quick menu
-- C-h           switch to file 1
-- C-t           switch to file 2
-- C-n           switch to file 3
-- C-s           switch to file 4 
+- C-h:          switch to file 1
+- C-t:          switch to file 2
+- C-n:          switch to file 3
+- C-s:          switch to file 4 
 
 ### LSP
 
