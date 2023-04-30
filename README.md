@@ -83,6 +83,6 @@ Follow the video on [YouTube](https://www.youtube.com/watch?v=w7i4amO_zaE&list=P
 - ci"       : jump inside next quoted text, delete text and get ready to type
 - ca"       : jump where quoted text is, delete text AND quotes, get ready to type
 - ciw       : cut-out word deletes current word and get ready to type
-- <asterisk>: jump to next definition of symbol under cursor
+- C-V 5j I <text in here> ESC: add same text in current and next5 lines
 
 ### Commands :TSPlaygroundToggle  shows the AST of the code in the editor (treesitter/playground)
