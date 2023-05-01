@@ -37,7 +37,7 @@ Follow the video on [YouTube](https://www.youtube.com/watch?v=w7i4amO_zaE&list=P
 - leader vrr  : references ?!?
 - leader vrn  : rename ?!?
 - C-h         : signature help ?!?
-- vca         : *vim code actions*, eg import modules and constants
+- leader vca  : *vim code actions*, eg import modules and constants
  
 ### Inside a menu
 - C-p:      previous item
@@ -83,4 +83,6 @@ Follow the video on [YouTube](https://www.youtube.com/watch?v=w7i4amO_zaE&list=P
 - ciw       : cut-out word deletes current word and get ready to type
 - C-V 5j I <text in here> ESC: add same text in current and next5 lines
 
-### Commands :TSPlaygroundToggle  shows the AST of the code in the editor (treesitter/playground)
+### Commands 
+ 
+- TSPlaygroundToggle  : shows the AST of the code in the editor (treesitter/playground)
